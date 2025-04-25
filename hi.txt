@@ -1,0 +1,13 @@
+hello
+
+user@DESKTOP-F82134P MINGW64 /d/git2 (master)
+$ git config --global user.email "qtag02@gmail.com"
+
+user@DESKTOP-F82134P MINGW64 /d/git2 (master)
+$ git config --global user.name "kwoney"
+
+user@DESKTOP-F82134P MINGW64 /d/git2 (master)
+$ git remote add origin https://github.com/angelkkj1169/angel_test.git
+
+user@DESKTOP-F82134P MINGW64 /d/git2 (master)
+$ git clone https://github.com/angelkkj1169/angel_test.git
